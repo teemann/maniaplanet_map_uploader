@@ -1,0 +1,7 @@
+{
+    "dest": "</path/to/your/server's/map/folder>",
+    "host": "<server host>",
+    "port": 22,
+    "user": "<username>",
+    "pkey": "<C:/path/to/private/key>"
+}
